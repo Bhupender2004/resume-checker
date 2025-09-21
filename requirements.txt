@@ -20,4 +20,6 @@ bcrypt
 gunicorn
 pyjwt
 flask
+Flask
+gunicorn
 
