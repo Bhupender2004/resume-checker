@@ -17,9 +17,6 @@ matplotlib
 supabase
 python-dotenv
 bcrypt
-gunicorn
 pyjwt
 flask
-Flask
 gunicorn
-
