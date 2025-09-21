@@ -17,4 +17,5 @@ matplotlib
 supabase
 python-dotenv
 bcrypt
+gunicorn
 pyjwt
